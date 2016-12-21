@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sectioning_adapter_tag_key_view_viewholder" type="id" />
+    <item name="live_detail_section_item_video" type="id" />
+
+    <item name="photoBorder_recyler" type="id" />
+
+
+</resources>
